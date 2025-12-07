@@ -1,7 +1,7 @@
 """
 Group 6 Pico Portion of Term Long Project
-Ali, Elizabeth, Glori, Sohum (cornerstone clashers)
-November 13th, 2025
+Ali, Elizabeth, Glori, Sohum (Save Our Ship)
+December 6th, 2025
 
 """
 
@@ -126,23 +126,6 @@ def turning_animation(direction, correct):
         
     print("\n\n\n\n\n\n\n\n\n\n\n\n")
     # reset screen
-
-def print_computer(eye, mouth, line1, line2, line3, line4, line5, line6):
-    print(f"         _________________")
-    print(f"        | _______________ |")
-    print(f"        | |             | |          {line1}")
-    print(f"        | |  o       o  | |          {line2}")
-    print(f"        | |      _      | |          {line3}")
-    print(f"        | |             | |          {line4}")
-    print(f"        | |_____________| |          {line5}")
-    print(f"        |_________________|          {line6}")
-    print(f"            _[_______]_")
-    print(f"        ___[___________]___")
-    print(f"       |         [_____] []|__")
-    print(f"       |         [_____] []|  \__")
-    print(f"       L___________________J     \\")
-    print(f"        ___________________      /\\")
-    print(f"       /###################\    (__)")
 
 ''' ----- Define functions for running --------------------------------------------------- '''
 
